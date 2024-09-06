@@ -1,5 +1,4 @@
-![20221113_140717](https://github.com/user-attachments/assets/ee9db479-6311-4575-a3a2-8deeb81be7d1)
-Nair Paz
+
 
 Hola! Mi nombre es Nair, estoy estudiando la carrera de la Tecnicatura Universitaria en programación en la Universidad de Hurlingham. Actualmente
 estoy trabajando con perritos, soy paseadora canina. Me encantan los animales!
